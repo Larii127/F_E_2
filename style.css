@@ -1,0 +1,15 @@
+body {
+    border-radius: 100;
+    text-align: center;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caixa {
+    background-color: rgb(228, 107, 202);
+    width: 350px;
+    align-items: center;
+    
+}
